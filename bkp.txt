@@ -1,0 +1,10 @@
+#0;am;1;1example.txt;1;#
+#0;are;1;2example.txt;1;#
+#5;fine;1;1example.txt;2;#
+#5;found;1;1example.txt;2;#
+#7;hi;2;1example.txt;4;2example.txt;1;#
+#7;hello;1;1example.txt;1;#
+#7;how;1;2example.txt;1;#
+#8;I;1;1example.txt;1;#
+#8;i;1;1example.txt;1;#
+#19;tou;1;2example.txt;1;#
